@@ -1,0 +1,1 @@
+This is an open source iPhone PNG Decrypter that using on iOS devices or simulator.  It completely decrypt the PNGs that extract from IPA source.
